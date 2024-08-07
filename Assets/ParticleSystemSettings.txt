@@ -1,0 +1,10 @@
+Duration: 0.1
+Looping: True
+Start Lifetime: UnityEngine.ParticleSystem+MinMaxCurve
+Start Speed: UnityEngine.ParticleSystem+MinMaxCurve
+Start Size: UnityEngine.ParticleSystem+MinMaxCurve
+Start Color: UnityEngine.ParticleSystem+MinMaxGradient
+Gravity Modifier: UnityEngine.ParticleSystem+MinMaxCurve
+Simulation Space: World
+Play on Awake: True
+Max Particles: 1000
